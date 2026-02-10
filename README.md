@@ -31,4 +31,7 @@
 # Conclusion
 - The Random Forest model, after tuning and feature selection, provided a robust solution for predicting customer churn, offering a good balance between precision and recall. This model supports targeted retention strategies by identifying at-risk customers effectively.
 
-
+### Business Impact
+- Demonstrates how churn prediction can identify customers at high risk of leaving.
+- Helps prioritize retention efforts by focusing on high-risk customers.
+- Highlights business trade-offs by emphasizing recall to reduce missed churn cases.
